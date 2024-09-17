@@ -1,0 +1,126 @@
+{
+  "getJob": [
+    {
+      "job_category": {
+        "id": 1,
+        "job_category": "mancing"
+      },
+      "avaliable_positions": [
+        {
+          "id": 1,
+          "job_vacancy_id": 1,
+          "position": "Software Engineer",
+          "capacity": 5,
+          "apply_capacity": 2
+        },
+        {
+          "id": 4,
+          "job_vacancy_id": 1,
+          "position": "Software Engineer",
+          "capacity": 5,
+          "apply_capacity": 2
+        },
+        {
+          "id": 7,
+          "job_vacancy_id": 1,
+          "position": "Software Engineer",
+          "capacity": 5,
+          "apply_capacity": 2
+        },
+        {
+          "id": 8,
+          "job_vacancy_id": 1,
+          "position": "UI/UX Designer",
+          "capacity": 3,
+          "apply_capacity": 1
+        },
+        {
+          "id": 13,
+          "job_vacancy_id": 1,
+          "position": "Data Analyst",
+          "capacity": 4,
+          "apply_capacity": 1
+        }
+      ]
+    },
+    {
+      "job_category": {
+        "id": 2,
+        "job_category": "pmr"
+      },
+      "avaliable_positions": [
+        {
+          "id": 2,
+          "job_vacancy_id": 2,
+          "position": "Marketing Specialist",
+          "capacity": 3,
+          "apply_capacity": 1
+        },
+        {
+          "id": 5,
+          "job_vacancy_id": 2,
+          "position": "Marketing Specialist",
+          "capacity": 3,
+          "apply_capacity": 1
+        },
+        {
+          "id": 9,
+          "job_vacancy_id": 2,
+          "position": "Marketing Specialist",
+          "capacity": 4,
+          "apply_capacity": 2
+        },
+        {
+          "id": 10,
+          "job_vacancy_id": 2,
+          "position": "Content Writer",
+          "capacity": 2,
+          "apply_capacity": 1
+        },
+        {
+          "id": 14,
+          "job_vacancy_id": 2,
+          "position": "Sales Representative",
+          "capacity": 5,
+          "apply_capacity": 3
+        }
+      ]
+    },
+    {
+      "job_category": {
+        "id": 3,
+        "job_category": "pkl"
+      },
+      "avaliable_positions": [
+        {
+          "id": 3,
+          "job_vacancy_id": 3,
+          "position": "Financial Analyst",
+          "capacity": 4,
+          "apply_capacity": 3
+        },
+        {
+          "id": 6,
+          "job_vacancy_id": 3,
+          "position": "Financial Analyst",
+          "capacity": 4,
+          "apply_capacity": 3
+        },
+        {
+          "id": 11,
+          "job_vacancy_id": 3,
+          "position": "Financial Analyst",
+          "capacity": 6,
+          "apply_capacity": 3
+        },
+        {
+          "id": 12,
+          "job_vacancy_id": 3,
+          "position": "Accountant",
+          "capacity": 3,
+          "apply_capacity": 2
+        }
+      ]
+    }
+  ]
+}
