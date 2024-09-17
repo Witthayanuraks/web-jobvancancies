@@ -28,7 +28,7 @@ Ini adalah proyek website **Job Vacancies** yang dibangun menggunakan **React.js
 1. **Clone repositori ini**:
 
    ```bash
-   git clone https://github.com/username/job-vacancies-website.git
+   git clone https://github.com/Witthayanuraks/web-jobvancancies.git
    ```
 
 2. **Masuk ke direktori proyek**:
